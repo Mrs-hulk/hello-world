@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2026
+---
+
 # 講義内容の概要
 
 ## 目次
