@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "software Eng. lecture note
-permalink: /docs/softwareEng2026
+permalink: /docs/softwareEng2026.md
 ---
 
 # 講義内容の概要
