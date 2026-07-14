@@ -13,7 +13,7 @@ permalink: /docs/softwareEng2026
 ## Github Pagesの設定手順
 >### リポジトリ名の変更
 >
-> Settingタブから **Hello-World**を **<ユーザー名>.github.io**へと変更する．
+> Settingタブから **Hello-World**を **[ユーザー名].github.io**へと変更する．
 >
 >### Jekyllの設定
 >
